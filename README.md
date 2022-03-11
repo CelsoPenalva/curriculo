@@ -4,10 +4,10 @@
 
 Local: Vitória da Conquista - BA | Idade: 36 anos
 
-Sou administrador de empresas, com mais de 10 anos de experiência em cargos de gestão. Em cada cargo que ocupei em minha 
-carreira profissional, eu dei sempre o meu melhor, com muito foco e dedicação. Sempre tive uma ligação muito forte com a 
-àrea de tecnologia, e atualmente, estudando desenvolvimento Full Stack, sinto que estou no caminho certo para me tornar o 
-profissional que sempre quis ser.
+Sou administrador de empresas, com mais de 10 anos de experiência em cargos de gestão. Em minha carreira profissional eu sempre
+dei o meu melhor em cada cargo que ocupei, com muito foco e dedicação. Apesar da formação em Administração de Empresas, eu tive 
+sempre uma ligação muito forte com a àrea de tecnologia, e atualmente, estudando desenvolvimento Full Stack, sinto que estou no
+caminho certo para alcançar os meus maiores objetivos profissionais.
 
 LinkedIn: [http://www.linkedin.com/in/celsopenalva](http://www.linkedin.com/in/celsopenalva "LinkedIn")   
 GitHub: [https://github.com/CelsoPenalva](https://github.com/CelsoPenalva "GitHub")

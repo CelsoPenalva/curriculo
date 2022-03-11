@@ -10,7 +10,7 @@ carreira profissional, eu dei sempre o meu melhor, com muito foco e dedicação.
 profissional que sempre quis ser.
 
 LinkedIn: [http://www.linkedin.com/in/celsopenalva](http://www.linkedin.com/in/celsopenalva "LinkedIn")   
-github: [https://github.com/CelsoPenalva](https://github.com/CelsoPenalva "GitHub")
+GitHub: [https://github.com/CelsoPenalva](https://github.com/CelsoPenalva "GitHub")
 
 ## Formação
 

@@ -102,6 +102,4 @@ github: [https://github.com/CelsoPenalva](https://github.com/CelsoPenalva "GitHu
 --- 
 
 
-  
-Sentiu falta de algo importante em meu currículo?  
-[Envie-me uma mensagem ](https://github.com/inbox/new/CelsoPenalva "Envie-me uma mensagem ") e ajude-me a melhora-lo.
+

@@ -44,6 +44,7 @@ github: [https://github.com/CelsoPenalva](https://github.com/CelsoPenalva "GitHu
    controle de estoque; Coordenação Comercial (Planos e valores, equipes de vendas, estratégias de marketing); Gerenciar o sistema
    de gestão e as redes de telecomunicações da empresa.
 
+
 ###   Esquadrifix / Mugitec
 * Cargo: Supervisor de Logística (Julho/2020 – Novembro/2020)
 
@@ -52,7 +53,8 @@ github: [https://github.com/CelsoPenalva](https://github.com/CelsoPenalva "GitHu
    Supervisionar os serviços de separação de cargas e carregamento de caminhões; Acompanhar o cronograma de produção de produtos;
    Controlar os pedidos e romaneios emitidos; Emitir romaneios de separação de mercadorias; Acompanhar o agendamento de manutenção
    dos veículos da frota; Gerar relatórios do setor.
-   
+
+
 ###   Pátio Veicular Central SPE
 * Cargo: Supervisor Administrativo Operacional (Março/2020 – Julho/2020)
 
@@ -63,7 +65,8 @@ github: [https://github.com/CelsoPenalva](https://github.com/CelsoPenalva "GitHu
    produção de terceirizados; Supervisionar o serviço de atendimento ao cliente e os Atendentes de pátio em suas atividades operacionais;
    Agendar e realizar transbordo de veículos e sucatas de pátios externos; Gerenciar e acompanhar os processos de pré-leilão e leilão de
    veículos e sucatas; Conferir processos de liberação concluídos; Realizar compra de materiais e insumos para a unidade.
-   
+
+
 ###   Hospital São Geraldo
 * Cargo: Gerente de TI (Junho/2011 - Julho/2019)
 
@@ -72,7 +75,8 @@ github: [https://github.com/CelsoPenalva](https://github.com/CelsoPenalva "GitHu
    serviço de cadastros de mat/med; Transmissão e correção de arquivos de faturamento (TISS); Suporte a cadastros de tabelas de faturamento;
    Suporte na geração e transmissão de arquivos de Setor Pessoal (CAGED, RAIS, GRRF, Folha de Pagamentos); Serviço de cotação e compra de
    equipamentos de informática.
-   
+
+
 ###   Hospital SAMUR
 * Cargo: Técnico em Informática (Outubro/2010 - Maio/2011)
 
@@ -85,7 +89,8 @@ github: [https://github.com/CelsoPenalva](https://github.com/CelsoPenalva "GitHu
    **Principais atividades:**
    Elaboração de documentos relacionados à certificação ISO 9001 (Mapas de procesos, POP´s, Fluxogramas) e Suporte aos colaboradores envolvidos
    no serviço.
-   
+
+
 ###   Eletro & Informática
 * Cargo: Sócio - Gerente (Maio/2006 - Setembro/2008)
 
@@ -93,7 +98,9 @@ github: [https://github.com/CelsoPenalva](https://github.com/CelsoPenalva "GitHu
    Compras; Vendas; Gestão de estoque; Precificação de produtos; Atendimento ao consumidor; Gerenciamento de suporte técnico.
 
 
+
 --- 
+
 
   
 Sentiu falta de algo importante em meu currículo?  

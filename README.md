@@ -25,6 +25,7 @@ GitHub: [https://github.com/CelsoPenalva](https://github.com/CelsoPenalva "GitHu
 
 * HTML/CSS (Programa Desenvolve 2022 - Alura / Boticário)
 * Javascript (Programa Desenvolve 2022 - Alura / Boticário)
+* Encontro Nacional Abrint 2021 (Associação Brasileira de Provedores de Internet e Telecomunicações)
 * Montagem e Manutenção de Computadores (SENAI, conclusão em 2004)
 * Mapeamento de Processos (Hospital SAMUR / Bono Consultoria, conclusão em 2010)
 * Atualização em Faturamento Médico Hospitalar - TISS 3.00.01 (PEC, conclusão em 2013)
